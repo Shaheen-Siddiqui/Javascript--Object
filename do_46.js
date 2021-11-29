@@ -10,4 +10,4 @@ console.log(typeof(B));
 
 
 c=parseFloat(div)
-console.log(typeof(c));
+console.log(typeof(c)); # for try only
